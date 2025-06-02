@@ -63,7 +63,7 @@ The dashboard was created using **Microsoft Power BI** and includes:
 # 📫 Contact
 ## For questions, suggestions, feel free to reach out:
 
-**Name:** [AMIT VERMA]
+- **Name:** [AMIT VERMA]
 - **Email:** [amytverma20@gmail.com.com]
 - **LinkedIn:** [https://www.linkedin.com/in/amitverma20/]
 
