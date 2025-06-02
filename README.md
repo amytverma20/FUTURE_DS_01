@@ -50,14 +50,14 @@ The dashboard was created using **Microsoft Power BI** and includes:
 
 ## 🔗 Live Demo
 
-[🔍 View Live Dashboard (Optional - Add link here if published to Power BI Service)]
-(https://github.com/amytverma20/FUTURE_DS_01/blob/main/Dashboard.png)
+[🔍 View Live Dashboard- Power BI]
+(Dashboard.png)
 
 ---
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](https://github.com/amytverma20/FUTURE_DS_01/blob/main/Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 # 📫 Contact
