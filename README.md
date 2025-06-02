@@ -1,4 +1,4 @@
-# 📊 Social Media Trend Analysis Dashboard
+# 📊 Social Media Analysis Dashboard
 
 This repository contains an interactive Power BI dashboard and dataset focused on analyzing social media trends, audience engagement, and platform performance. The goal is to provide actionable insights for marketing teams, social media analysts, and brand managers.
 
